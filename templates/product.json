@@ -58,9 +58,8 @@
             "share_label": "Share"
           }
         },
-        "3b3ba982-c73f-4d54-a3dd-0299b9233e91": {
+        "recharge_subscriptions_subscription_widget_xXrFTw": {
           "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
-          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
@@ -77,7 +76,7 @@
         "buy_buttons",
         "description",
         "share",
-        "3b3ba982-c73f-4d54-a3dd-0299b9233e91"
+        "recharge_subscriptions_subscription_widget_xXrFTw"
       ],
       "settings": {
         "enable_sticky_info": true,
